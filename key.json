@@ -18,8 +18,6 @@
     "updateRequired": false,
     "updateUrl": "https://t.me/dpmodsdialog"
   },
-  "BannedHWIDs": {
-    "EXAMPLE_BANNED_HWID": "Attempted Smali Bypass"
-  },
+  "BannedHWIDs": {},
   "Keys": {}
 }
